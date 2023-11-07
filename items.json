@@ -4,31 +4,36 @@
       "id": 1,
       "name": "Eternal Sunshine of the Spotless Mind",
       "year": 2004,
-      "description": "A man tries to erase the memories of his failed relationship with a groundbreaking procedure."
+      "description": "A man tries to erase the memories of his failed relationship with a groundbreaking procedure.",
+      "picture": "https://i.ibb.co/PcTntw8/Eternal-Sunshine-Of-The-Spotless-Mind.webp"
     },
     {
       "id": 2,
       "name": "The Science of Sleep",
       "year": 2006,
-      "description": "A man's dream world blends with reality, blurring the lines between the two."
+      "description": "A man's dream world blends with reality, blurring the lines between the two.",
+      "picture": "https://i.ibb.co/2yY6dZb/The-Science-Of-Sleep.webp"
     },
     {
       "id": 3,
       "name": "Be Kind Rewind",
       "year": 2008,
-      "description": "Two friends create low-budget remakes of popular movies after accidentally erasing all the tapes in a video rental store."
+      "description": "Two friends create low-budget remakes of popular movies after accidentally erasing all the tapes in a video rental store.",
+      "picture": "https://i.ibb.co/kcj9VZP/Be-Kind-Rewind.webp"
     },
     {
       "id": 4,
       "name": "Mood Indigo",
       "year": 2013,
-      "description": "A woman's illness affects her life and the love she shares with her partner."
+      "description": "A woman's illness affects her life and the love she shares with her partner.",
+      "picture": "https://i.ibb.co/1bjF6ng/Mood-Indigo.webp"
     },
     {
       "id": 5,
       "name": "The Green Hornet",
       "year": 2011,
-      "description": "A newspaper publisher teams up with his martial artist friend to become a masked crime-fighting duo."
+      "description": "A newspaper publisher teams up with his martial artist friend to become a masked crime-fighting duo.",
+      "picture": "https://i.ibb.co/dPRvt5h/The-Green-Hornet.webp"
     },
     {
       "id": 6,
