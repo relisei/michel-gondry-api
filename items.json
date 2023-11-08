@@ -5,65 +5,40 @@
       "name": "Eternal Sunshine of the Spotless Mind",
       "year": 2004,
       "description": "A man tries to erase the memories of his failed relationship with a groundbreaking procedure.",
-      "picture": "https://i.ibb.co/PcTntw8/Eternal-Sunshine-Of-The-Spotless-Mind.webp"
+      "picture": "https://i.ibb.co/PcTntw8/Eternal-Sunshine-Of-The-Spotless-Mind.webp",
+      "isSeen": "false"
     },
     {
       "id": 2,
       "name": "The Science of Sleep",
       "year": 2006,
       "description": "A man's dream world blends with reality, blurring the lines between the two.",
-      "picture": "https://i.ibb.co/2yY6dZb/The-Science-Of-Sleep.webp"
+      "picture": "https://i.ibb.co/2yY6dZb/The-Science-Of-Sleep.webp",
+      "isSeen": "false"
     },
     {
       "id": 3,
       "name": "Be Kind Rewind",
       "year": 2008,
       "description": "Two friends create low-budget remakes of popular movies after accidentally erasing all the tapes in a video rental store.",
-      "picture": "https://i.ibb.co/kcj9VZP/Be-Kind-Rewind.webp"
+      "picture": "https://i.ibb.co/kcj9VZP/Be-Kind-Rewind.webp",
+      "isSeen": "false"
     },
     {
       "id": 4,
       "name": "Mood Indigo",
       "year": 2013,
       "description": "A woman's illness affects her life and the love she shares with her partner.",
-      "picture": "https://i.ibb.co/1bjF6ng/Mood-Indigo.webp"
+      "picture": "https://i.ibb.co/1bjF6ng/Mood-Indigo.webp",
+      "isSeen": "false"
     },
     {
       "id": 5,
       "name": "The Green Hornet",
       "year": 2011,
       "description": "A newspaper publisher teams up with his martial artist friend to become a masked crime-fighting duo.",
-      "picture": "https://i.ibb.co/dPRvt5h/The-Green-Hornet.webp"
-    },
-    {
-      "id": 6,
-      "name": "Dave Chappelle's Block Party",
-      "year": 2005,
-      "description": "A documentary film about a block party organized by Dave Chappelle featuring musical and comedy performances."
-    },
-    {
-      "id": 7,
-      "name": "Microbe & Gasoline",
-      "year": 2015,
-      "description": "Two young friends embark on a road trip in a homemade car."
-    },
-    {
-      "id": 8,
-      "name": "The We and the I",
-      "year": 2012,
-      "description": "A group of high school students navigate their way home on the last day of school."
-    },
-    {
-      "id": 9,
-      "name": "Human Nature",
-      "year": 2001,
-      "description": "A story that explores the intersection of science, ethics, and human behavior."
-    },
-    {
-      "id": 10,
-      "name": "Is the Man Who Is Tall Happy?",
-      "year": 2013,
-      "description": "An animated conversation between filmmaker Michel Gondry and linguist Noam Chomsky."
+      "picture": "https://i.ibb.co/dPRvt5h/The-Green-Hornet.webp",
+      "isSeen": "false"
     }
   ]
 }
